@@ -3,4 +3,4 @@ Knock, knock.
 Who's there?
 Git.
 Git who?
-Git this joke over with.
+Fix the merge without making a dumb joke.
